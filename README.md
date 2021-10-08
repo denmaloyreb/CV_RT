@@ -1,6 +1,6 @@
 # Резюме на должность «Технический писатель»
 
-Ребенок Денис Васильевич
+## Ребенок Денис Васильевич
 
 *Год рождения:* 1985
 
@@ -26,7 +26,7 @@
 **декабрь 2014 г. – наст.вр** –  ИП, фрилансер, IT-копирайтер, редактор, HTML-верстальщик. Специализируюсь на технических темах. *Функциональные обязанности: подготовка текстового контента для клиентских интернет-ресурсов (SEO-агентства, компании, занимающиеся разработкой, внедрением, поддержкой ПО, системные интеграторы).* 
 ### Примеры работ:
 **Инструкции (руководства):**
-![Продвижение сайта самостоятельно — инструкция по SEO с нуля] (https://studiobit.ru/blog/seo-and-reklama/seo-prodvizhenie-sayta-samostoyatelno/)
+[Продвижение сайта самостоятельно — инструкция по SEO с нуля] (https://studiobit.ru/blog/seo-and-reklama/seo-prodvizhenie-sayta-samostoyatelno/)
 
 https://gmhost.com.ua/kak-zagruzit-sayt-na-hosting
 https://afforto.ru/company/blog/5_pravil_dlya_sozdaniya_bezopasnogo_parolya_kotoryy_legko_zapomnit/
