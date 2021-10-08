@@ -38,7 +38,7 @@
 
 [5 правил для создания безопасного пароля, который легко запомнить](https://afforto.ru/company/blog/5_pravil_dlya_sozdaniya_bezopasnogo_parolya_kotoryy_legko_zapomnit/)
 
-[Как загрузить сайт на хостинг](https://www.itmain.ru/terminalnij-server-2012-r2.html)
+[НАСТРАИВАЕМ ТЕРМИНАЛЬНЫЙ СЕРВЕР НА ПРИМЕРЕ ОС WINDOWS SERVER 2012 R2](https://www.itmain.ru/terminalnij-server-2012-r2.html)
 
 
 **Информационные статьи**
