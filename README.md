@@ -26,11 +26,16 @@
 **декабрь 2014 г. – наст.вр** –  ИП, фрилансер, IT-копирайтер, редактор, HTML-верстальщик. Специализируюсь на технических темах. *Функциональные обязанности: подготовка текстового контента для клиентских интернет-ресурсов (SEO-агентства, компании, занимающиеся разработкой, внедрением, поддержкой ПО, системные интеграторы).* 
 ### Примеры работ:
 **Инструкции (руководства):**
-[Продвижение сайта самостоятельно — инструкция по SEO с нуля] (https://studiobit.ru/blog/seo-and-reklama/seo-prodvizhenie-sayta-samostoyatelno/)
+[Продвижение сайта самостоятельно — инструкция по SEO с нуля](https://studiobit.ru/blog/seo-and-reklama/seo-prodvizhenie-sayta-samostoyatelno/)
 
-https://gmhost.com.ua/kak-zagruzit-sayt-na-hosting
-https://afforto.ru/company/blog/5_pravil_dlya_sozdaniya_bezopasnogo_parolya_kotoryy_legko_zapomnit/
-https://www.itmain.ru/terminalnij-server-2012-r2.html
+[Как загрузить сайт на хостинг](https://gmhost.com.ua/kak-zagruzit-sayt-na-hosting)
+
+[5 правил для создания безопасного пароля, который легко запомнить](https://afforto.ru/company/blog/5_pravil_dlya_sozdaniya_bezopasnogo_parolya_kotoryy_legko_zapomnit/)
+
+[Как загрузить сайт на хостинг](https://www.itmain.ru/terminalnij-server-2012-r2.html)
+
+
+
 
 **Информационные статьи**
 https://rt-solar.ru/products/solar_inrights/blog/2340/
