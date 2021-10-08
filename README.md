@@ -1,7 +1,6 @@
 # Резюме на должность «Технический писатель»
 
 ## Ребенок Денис Васильевич
-Фото:
 ![My_photo](photo.png)
 
 *Год рождения:* 1985
@@ -32,6 +31,7 @@
 ### Примеры работ:
 
 **Инструкции (руководства):**
+
 [Продвижение сайта самостоятельно — инструкция по SEO с нуля](https://studiobit.ru/blog/seo-and-reklama/seo-prodvizhenie-sayta-samostoyatelno/)
 
 [Как загрузить сайт на хостинг](https://gmhost.com.ua/kak-zagruzit-sayt-na-hosting)
@@ -71,7 +71,7 @@
 
 **B1.**
 
-Сертификат:
+
 ![eng_certificate](certificate.png)
 ## Навыки и умения
 Владею технологиями/инструментами:
