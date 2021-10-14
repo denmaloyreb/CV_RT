@@ -45,7 +45,7 @@
 
 [Управление пользователями баз данных. Для блога одного из продуктов "Ростелеком"](https://rt-solar.ru/products/solar_inrights/blog/2340/)
 
-[Принцип работы DLP-системы: как устроены своременные DLP-системы. Для блога одного из продуктов "Ростелеком"](https://rt-solar.ru/products/solar_dozor/blog/2181/)
+[Принцип работы DLP-системы: как устроены современные DLP-системы. Для блога одного из продуктов "Ростелеком"](https://rt-solar.ru/products/solar_dozor/blog/2181/)
 
 [Что нужно знать о защите домашнего или офисного роутера](https://club.esetnod32.ru/articles/analitika/routery-zashchita/)
 
